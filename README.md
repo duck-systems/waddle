@@ -20,9 +20,9 @@ in `*app*`.
 
 ## Example
 
-See the [example](example/) file. Run by:
+See the [example](example/example.lisp) file. Run by:
 ```lisp
 (asdf:load-system "systems.duck.waddle/example")
 (systems.duck.waddle.example:start)
 ```
-Then, access [http://localhost:8080/hello-world](http://localhost/hello-world).
+Then, access [http://localhost:8080/hello-world](http://localhost:8080/hello-world).
